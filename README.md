@@ -11,9 +11,7 @@ REST API для сервиса YaMDb — базы отзывов о фильма
 
 ## Стек технологий использованный в проекте:
 - Python
-- Python
 - Django
-- Django REST Framework
 - REST API
 - SQLite
 - Аутентификация по JWT-токену
